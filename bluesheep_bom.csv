@@ -1,25 +1,25 @@
-"Value","RefDes","Pattern","Part Number (LCSC)"
-"100u","C1, C2","6MM_BLANK",""
-"100n","C3, C6, C7","5MM_7x2.5",""
-"47p","C4","2.5MM",""
-"220n","C5","5MM_7x2.5",""
-"220p","C8","2.5MM",""
-"2u2","C9","5MM_BLANK",""
-"33n","C10, C12, C13","5MM_7x2.5",""
-"2n2","C11","5MM_7x2.5",""
-"10u","C14","5MM_BLANK",""
-"1N5817","D1","DIODE",""
-"TL072","IC1, IC2","DIP08",""
-"10k","R1, R2, R11, R12","7.5MM",""
-"15k","R3","7.5MM",""
-"1k2","R4","7.5MM",""
-"1M","R5","7.5MM",""
-"33k","R6","7.5MM",""
-"6k8","R7","7.5MM",""
-"27k","R8","7.5MM",""
-"1k","R9, R10","7.5MM",""
-"4k7","R13","7.5MM",""
-"330k","R14","7.5MM",""
-"100k","R16","7.5MM",""
-"A10k","VOL","16MM",""
-"A100k","GAIN, PRE, TONE","16MM",""
+Value,RefDes,Pattern
+100u,"C1, C2",6MM_BLANK
+100n,"C3, C6, C7",5MM_7x2.5
+47p,C4,2.5MM
+220n,C5,5MM_7x2.5
+220p,C8,2.5MM
+2u2,C9,5MM_BLANK
+33n,"C10, C12, C13",5MM_7x2.5
+2n2,C11,5MM_7x2.5
+10u,C14,5MM_BLANK
+1N5817,D1,DIODE
+TL072,"IC1, IC2",DIP08
+10k,"R1, R2, R11, R12",7.5MM
+15k,R3,7.5MM
+1k2,R4,7.5MM
+1M,R5,7.5MM
+33k,R6,7.5MM
+6k8,R7,7.5MM
+27k,R8,7.5MM
+1k,"R9, R10",7.5MM
+4k7,R13,7.5MM
+330k,R14,7.5MM
+100k,R16,7.5MM
+A10k,VOL,16MM
+A100k,"GAIN, PRE, TONE",16MM
